@@ -4,4 +4,8 @@
     "source.fixAll.eslint": true
   },
   "editor.inlayHints.enabled": "off",
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true
+
 }
